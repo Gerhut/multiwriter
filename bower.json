@@ -1,0 +1,25 @@
+{
+  "name": "multiwriter",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Gerhut/multiwriter",
+  "authors": [
+    "George Chung <Gerhut@GMail.com>"
+  ],
+  "description": "Writer for multiple writers & watchers",
+  "main": "index.html",
+  "keywords": [
+    "writer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "typo.css": "*",
+    "socket.io": "~1.0.4"
+  }
+}
